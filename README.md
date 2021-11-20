@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align=center> Olá!👋🏻Eu sou Samuel Benedito 👨‍💻💻 </h1>
 
-<!--
-**SamuelBenedito/SamuelBenedito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/SamuelBenedito">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SamuelBenedito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBenedito&layout=compact&langs_count=7&theme=tokyonight&border_radius=20"/>
+</div>
+  
+## Sobre mim📖
+<p> - 👨‍💻 Analista JR | Suporte - Linx - Stone Co </p>
+<p> - 👨‍🎓 Estudante de Sistema de Informação, atualmente no 2° semestre. </p>
+<p> - 🎯 Interesse: Front-End. </p>
+  
+## Tecnologias que eu uso no meu dia✔️
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/SamuelBenedito/count.svg" />
+ </p>
