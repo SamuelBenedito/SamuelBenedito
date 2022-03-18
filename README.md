@@ -36,4 +36,3 @@
    <img alingn="center" src="https://profile-counter.glitch.me/SamuelBenedito/count.svg" />
  </p>
   
-  ![Snake animation](https://github.com/SamuelBenedito/AkioSerizawa/blob/output/github-contribution-grid-snake.svg)
