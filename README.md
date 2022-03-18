@@ -6,6 +6,12 @@
 <a href="mailto:samuelbenedito2017@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
 
+<div align="center" style="display: inline_block">
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=SamuelBenedito&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBenedito&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"/>
+</div>
+
+
 <div align="center">
   <a href="https://github.com/SamuelBenedito">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SamuelBenedito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
