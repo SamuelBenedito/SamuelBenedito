@@ -1,5 +1,11 @@
 <h1 align=center> Olá!👋🏻Eu sou Samuel Benedito 👨‍💻💻 </h1>
 
+<div align="center" style="display: inline_block"><br>
+<a href="https://instagram.com/samuelbeneditoo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/SamuelBenedito"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:samuelbenedito2017@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+</div>
+
 <div align="center">
   <a href="https://github.com/SamuelBenedito">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SamuelBenedito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
