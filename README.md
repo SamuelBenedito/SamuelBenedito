@@ -12,7 +12,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBenedito&layout=compact&langs_count=7&theme=tokyonight&border_radius=20"/>
 </div>
   
-## Sobre mim📖
 <p> 
   - 👨‍💻 Analista JR | Suporte - Linx - Stone Co
 </p>
